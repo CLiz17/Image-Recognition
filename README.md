@@ -1,2 +1,2 @@
 # Image-Recognition
-All the people in a group image is being recognized.
+Identification of people in a group picture by tensorflow trained model
